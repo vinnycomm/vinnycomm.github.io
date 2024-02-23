@@ -2,14 +2,14 @@ Vinny Communication | Samsung Service Center
 <div display="block">
 <img src= "https://github.com/vinnycomm/vinnycomm.github.io/blob/main/_images/Logo_vc_blue.png?raw=true" alt="GeeksforGeeks logo" align="left" height="150">
 </div>
-<br><br><br>
+<!-- <br><br><br> -->
 <div align="center" display="block">
-  <font size=0>Vinny Communications </font>
-  <h1> ... </h1>
+<!--   <font size=0>Vinny Communications </font> -->
+<!--   <h1> ... </h1> -->
   <hr>
-  <h1 style="font-size:80px"> Vinny Communications </h1>
+  <h1 style="font-size:60px"> Vinny Communications </h1>
   <hr>
-  <h2> Samsung Service Center (Authorised) </h2>
+  <h2 style="font-size:40px"> Samsung Service Center (Authorised) </h2>
   
   
   <a href="https://VinnyComm.github.io"><img src="https://github.com/vinnycomm/vinnycomm.github.io/blob/main/_images/VinnyComm_vcard_frontside_1.png?raw=true" height="500"/></a>
