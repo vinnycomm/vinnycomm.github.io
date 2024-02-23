@@ -1,4 +1,3 @@
-
 Vinny Communication | Samsung Service Center
 <div display="block">
 <img src= "https://github.com/vinnycomm/vinnycomm.github.io/blob/main/_images/Logo_vc_blue.png?raw=true" alt="GeeksforGeeks logo" align="left" height="150">
