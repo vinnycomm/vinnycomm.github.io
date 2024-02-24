@@ -27,7 +27,15 @@ Vinny Communication | Samsung Service Center
 </form>
 <hr>
 
+<h1>Rate us on Google!</h1>
+<b>We value your feedback</b>
+    <form>
+      <button type="submit" onclick="location.href='https://g.page/r/CS-PCCjdRN6_EBM/review'">
+        on google
+      </button>
+    </form>
 
+<hr>
   <!--
   <div align="center">
     <a href="https://MLEndDatasets.github.io"><b><font size="5">Homepage</font></b></a>
