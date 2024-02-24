@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--DOCTYPE html-->
 <html>
 <head>
 <!-- Font Awesome Icon Library -->
@@ -10,12 +10,7 @@
 </style>
 </head>
 <body>
-
-
-
-
-
-
+  
 Vinny Communication | Samsung Service Center
 <div align="center" display="block">
 <img src= "https://github.com/vinnycomm/vinnycomm.github.io/blob/main/_images/Logo_vc_blue.png?raw=true" alt="GeeksforGeeks logo" align="center" height="150">
@@ -39,7 +34,6 @@ Vinny Communication | Samsung Service Center
 
  <h1>Find us here</h1>
  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3683.0518181446955!2d77.76297647653637!3d22.61454007946182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397ddd8882a19d3f%3A0xbfde44dd28088f2f!2sAuthorised%20Samsung%20Service%20Center%20-%20Vinny%20Communications!5e0!3m2!1sen!2suk!4v1708720819713!5m2!1sen!2suk" width="350" height="250" style="border:1;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<hr>
 <form action="https://maps.app.goo.gl/jpewyY2jwaT5dPYu7">
     <input type="submit" value="Go to Google Map" />
 </form>
@@ -50,7 +44,7 @@ Vinny Communication | Samsung Service Center
 
     <form>
       <button type="reset" onclick="location.href='https://g.page/r/CS-PCCjdRN6_EBM/review'">
-        go to google
+        Click here to rate!
       </button>
     </form>
 
