@@ -1,3 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Font Awesome Icon Library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.checked {
+  color: orange;
+}
+</style>
+</head>
+<body>
+
+
+
+
+
+
 Vinny Communication | Samsung Service Center
 <div align="center" display="block">
 <img src= "https://github.com/vinnycomm/vinnycomm.github.io/blob/main/_images/Logo_vc_blue.png?raw=true" alt="GeeksforGeeks logo" align="center" height="150">
@@ -29,11 +47,18 @@ Vinny Communication | Samsung Service Center
 
 <h1>Rate us on Google!</h1>
 <b>We value your feedback</b>
+
     <form>
-      <button type="submit" onclick="location.href='https://g.page/r/CS-PCCjdRN6_EBM/review'">
-        on google
+      <button type="reset" onclick="location.href='https://g.page/r/CS-PCCjdRN6_EBM/review'">
+        go to google
       </button>
     </form>
+
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
 
 <hr>
   <!--
@@ -55,3 +80,7 @@ Vinny Communication | Samsung Service Center
 -->
 <div>&nbsp;</div>
 </div>
+
+
+</body>
+</html>
