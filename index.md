@@ -7,7 +7,7 @@ Vinny Communication | Samsung Service Center
 <!--   <font size=0>Vinny Communication </font> -->
 <!--   <h1> ... </h1> -->
   <hr>
-  <h1 style="font-size:40px"> Vinny Communications </h1>
+  <h1 style="font-size:40px"> Vinny Communication </h1>
   <hr>
   <h2 style="font-size:30px"> Samsung Service Center (Authorised) </h2>
   
