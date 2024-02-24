@@ -1,10 +1,10 @@
 Vinny Communication | Samsung Service Center
 <div align="center" display="block">
-<img src= "https://github.com/vinnycomm/vinnycomm.github.io/blob/main/_images/Logo_vc_blue.png?raw=true" alt="GeeksforGeeks logo" align="left" height="80">
+<img src= "https://github.com/vinnycomm/vinnycomm.github.io/blob/main/_images/Logo_vc_blue.png?raw=true" alt="GeeksforGeeks logo" align="left" height="10">
 </div>
 <!-- <br><br><br> -->
 <div align="center" display="block">
-<!--   <font size=0>Vinny Communications </font> -->
+<!--   <font size=0>Vinny Communication </font> -->
 <!--   <h1> ... </h1> -->
   <hr>
   <h1 style="font-size:40px"> Vinny Communications </h1>
@@ -12,9 +12,9 @@ Vinny Communication | Samsung Service Center
   <h2 style="font-size:30px"> Samsung Service Center (Authorised) </h2>
   
   
-  <a href="https://VinnyComm.github.io"><img src="https://github.com/vinnycomm/vinnycomm.github.io/blob/main/_images/VinnyComm_vcard_frontside_1.png?raw=true" height="400"/></a>
+  <a href="https://VinnyComm.github.io"><img src="https://github.com/vinnycomm/vinnycomm.github.io/blob/main/_images/VinnyComm_vcard_frontside_1.png?raw=true" width="200"/></a>
   <div>&nbsp;</div>
-  <a href="https://VinnyComm.github.io"><img src="https://github.com/vinnycomm/vinnycomm.github.io/blob/main/_images/VinnyComm_vcard_backside_1.png?raw=true" height="400"/></a>
+  <a href="https://VinnyComm.github.io"><img src="https://github.com/vinnycomm/vinnycomm.github.io/blob/main/_images/VinnyComm_vcard_backside_1.png?raw=true" width="200"/></a>
 
 
 
